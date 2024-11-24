@@ -4,6 +4,9 @@ This project is a RESTful API for managing a single general store.
 The API handles inventory, staff roles, customer orders, and local delivery within a certain range. 
 It also supports secure payment options and enforces age restrictions for certain items.
 
+## Diagram
+- [eraser.io](https://app.eraser.io/workspace/WT37wJNQcOvU87ryI5nk?origin=share)
+
 ## Features
 
 - **User Management:** ![Processing](https://img.shields.io/badge/status-Processing-yellow)
